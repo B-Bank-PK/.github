@@ -1,11 +1,10 @@
 ## Hi there 👋
-
+Blood Bank Pakistan (BBank PK) App is a mobile application to reach our blood donors and receive blood on time!
 <!--
 
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
-  A smart phone application to reach out blood donors.
 🌈 Contribution guidelines - how can the community get involved?
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
 🍿 Fun facts - what does your team eat for breakfast?
